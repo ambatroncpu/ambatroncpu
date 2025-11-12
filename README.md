@@ -1,15 +1,9 @@
-<style>
-      .skill img {
-        margin-right : 10px;
-      }
-</style>
 <html>
   <body>
     <h>test</h>
     <p>I am 2nd year student from <a href="http://www.kosen.kmitl.ac.th/en">KOSEN KMITL</a></p>
     <p>I am interested in cyber security and application development</p>
     <h1>my skill</h1>
-    <div class="skill">
       <a href="https://en.wikipedia.org/wiki/C_(programming_language) target="_blank"> 
         <img src="assets/C.png" alt="C_computer_language" width="55" height="60">
       </a>
@@ -22,6 +16,5 @@
       <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
         <img src="assets/HTML.png" alt="html" width="55" height="60">
       </a>
-    </div>
   </body>
 </html>
