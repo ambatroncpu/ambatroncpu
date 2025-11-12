@@ -1,16 +1,28 @@
-## Hi there 👋
+<html>
+  <head>
+    <style>
+      .skill img {
+        margin-right : 10px;
+        align-items: center;
+      }
 
-<!--
-**ambatroncpu/ambatroncpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      a.fixed_line {
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h>test</h>
+    <p>I am 2nd year student from <a href="http://www.kosen.kmitl.ac.th/en">KOSEN KMITL</a></p>
+    <p>I am interested in cyber security and application development</p>
+    <h1>my skill</h1>
+    <div class="skill">
+      <a class="fix_line" href="https://en.wikipedia.org/wiki/C_(programming_language)"> 
+        <img src="assets/c.png" alt="C_computer_language" width="55" height="60">
+      </a>
+      <a class="fix_line" href="https://en.wikipedia.org/wiki/C%2B%2B">
+        <img src="assets/Cpp.png" alt="C++_computer_language" width="55" height="60">
+      </a>
+    </div>
+  </body>
+</html>
