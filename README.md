@@ -3,11 +3,6 @@
     <style>
       .skill img {
         margin-right : 10px;
-        align-items: center;
-      }
-
-      a.fixed_line {
-        text-decoration: none;
       }
     </style>
   </head>
@@ -22,6 +17,12 @@
       </a>
       <a class="fix_line" href="https://en.wikipedia.org/wiki/C%2B%2B">
         <img src="assets/Cpp.png" alt="C++_computer_language" width="55" height="60">
+      </a>
+      <a class="fix_line" href="https://www.python.org/">
+        <img src="assets/python.png" alt="python_computer_language" width="55" height="60">
+      </a>
+      <a class="fix_line" href="https://en.wikipedia.org/wiki/HTML">
+        <img src="assets/html.png" alt="html" width="55" height="60">
       </a>
     </div>
   </body>
