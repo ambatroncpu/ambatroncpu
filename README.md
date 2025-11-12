@@ -5,21 +5,13 @@
     <p>I am interested in cyber security and application development</p>
     <h1>my skill</h1>
     <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="assets/C.png" alt="C Language" width="55" height="60">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-    <img src="assets/Cpp.png" alt="C++ Language" width="55" height="60">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/">
-    <img src="assets/python.png" alt="Python" width="55" height="60">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/HTML">
-    <img src="assets/HTML.png" alt="HTML" width="55" height="60">
-  </a>
-</p>
+      [<img src="assets/C.png" width="55" height="60">](https://en.wikipedia.org/wiki/C_(programming_language))
+      &nbsp;&nbsp;&nbsp;
+      [<img src="assets/Cpp.png" width="55" height="60">](https://en.wikipedia.org/wiki/C%2B%2B)
+      &nbsp;&nbsp;&nbsp;
+      [<img src="assets/python.png" width="55" height="60">](https://www.python.org/)
+      &nbsp;&nbsp;&nbsp;
+      [<img src="assets/HTML.png" width="55" height="60">](https://en.wikipedia.org/wiki/HTML)
+    </p>
   </body>
 </html>
