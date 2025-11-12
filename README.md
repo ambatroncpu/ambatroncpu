@@ -19,6 +19,6 @@
           <img src="assets/HTML.png" alt="html" width="55" height="60">&nbsp&nbsp&nbsp
         </a></td>
       </tr>
-    </table>table>
+    </table>
   </body>
 </html>
