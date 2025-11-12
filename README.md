@@ -13,13 +13,13 @@
       <a class="fix_line" href="https://en.wikipedia.org/wiki/C_(programming_language) target="_blank"> 
         <img src="assets/C.png" alt="C_computer_language" width="55" height="60">
       </a>
-      <a class="fix_line" href="https://en.wikipedia.org/wiki/C%2B%2B">
+      <a class="fix_line" href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
         <img src="assets/Cpp.png" alt="C++_computer_language" width="55" height="60">
       </a>
-      <a class="fix_line" href="https://www.python.org/">
+      <a class="fix_line" href="https://www.python.org/" target="_blank">
         <img src="assets/python.png" alt="python_computer_language" width="55" height="60">
       </a>
-      <a class="fix_line" href="https://en.wikipedia.org/wiki/HTML">
+      <a class="fix_line" href="https://en.wikipedia.org/wiki/HTML" target="_blank">
         <img src="assets/HTML.png" alt="html" width="55" height="60">
       </a>
     </div>
