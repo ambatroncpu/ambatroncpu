@@ -1,11 +1,9 @@
-<html>
-  <head>
-    <style>
+<style>
       .skill img {
         margin-right : 10px;
       }
-    </style>
-  </head>
+</style>
+<html>
   <body>
     <h>test</h>
     <p>I am 2nd year student from <a href="http://www.kosen.kmitl.ac.th/en">KOSEN KMITL</a></p>
