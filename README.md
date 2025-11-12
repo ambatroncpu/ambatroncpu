@@ -6,7 +6,7 @@
     <h1>my skill</h1>
     <table>
       <tr>
-        <td><a href="https://en.wikipedia.org/wiki/C_(programming_language) target="_blank"> 
+        <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
           <img src="assets/C.png" alt="C_computer_language" width="55" height="60">&nbsp&nbsp&nbsp
         </a></td>
         <td><a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
