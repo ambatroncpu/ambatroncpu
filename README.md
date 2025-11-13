@@ -26,5 +26,6 @@
   <p>I also like to watch a lot of animes and listen to a lot of musics</p>
   <img src="https://media1.tenor.com/m/iBQ59R2w4ikAAAAd/steins-gate-ruka.gif" alt="but_hes_a_guy" width="200">
   <img src="assets/zutomayono1.gif" alt="zutomayo_no1" width="200">
+  <br>
   <img src="https://media1.tenor.com/m/LL7-MSlTGHoAAAAd/dreamybull-ambatron.gif" alt="ambatron_roblox" width="200">
 </div>
