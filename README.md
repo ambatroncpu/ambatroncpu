@@ -18,6 +18,14 @@
   <a href="https://en.wikipedia.org/wiki/HTML" rel="noreferrer">
     <img src="assets/HTML.png" alt="HTML" width="55" height="60">
   </a>
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ambatroncpu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=onedark&hide_border=false&order=2" height="120" alt="languages graph"  />
+</div>
+
+<div id="stat" align="center">
+  <h1>stat</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=ambatroncpu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
 </div>
 
 <div id="more_abt_me" align="center">
