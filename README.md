@@ -4,8 +4,8 @@
   <p>interested in cyber security and application development</p>
 </div>
 
-<div id="skill" align="center">
-  <h1>skill</h1>
+<div id="languages_and_tools" align="center">
+  <h1>languages and tools</h1>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="assets/C.png" alt="C Language" width="55" height="60">
   </a>&nbsp;&nbsp;&nbsp;
