@@ -6,16 +6,16 @@
 
 <div id="languages_and_tools" align="center">
   <h1>languages and tools</h1>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" rel="noreferrer">
     <img src="assets/C.png" alt="C Language" width="55" height="60">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" rel="noreferrer">
     <img src="assets/Cpp.png" alt="C++ Language" width="55" height="60">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" rel="noreferrer">
     <img src="assets/python.png" alt="Python" width="55" height="60">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/HTML">
+  <a href="https://en.wikipedia.org/wiki/HTML" rel="noreferrer">
     <img src="assets/HTML.png" alt="HTML" width="55" height="60">
   </a>
 </div>
